@@ -4,7 +4,8 @@
 ## Description
 9,181 People 59,490 Images Cross-age Faces Data. The data includes indoor and outdoor scenes. The dataset includes female and male (Asian). For most people, the age spans are 10 years at least, the age spans of only a few people are less than 10 years (128 people). For each person, at least 4 front side images were collected. The data can be used for tasks such as cross-age face recognition.
 
-For more details, please refer to the link: https://bit.ly/3CaqpV8
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1053?source=Github
+
 
 ## Data size
 9,181 people, 59,490 images
