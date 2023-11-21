@@ -35,4 +35,4 @@ the human face bounding boxes were annotated for each subject
 the accuracy exceeds 97% based on the accuracy of the sharpness and age group; the bounding box of face is qualified when the deviation is not more than 3 pixels, and the qualified rate of the bounding box shall not be lower than 97%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
